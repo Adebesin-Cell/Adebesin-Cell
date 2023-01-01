@@ -9,7 +9,7 @@ Being a result-driven Front-end Engineer with over a year of experience in front
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [lope.cell.vercel.app](http://lope.cell.vercel.app)
 * ✉️  You can contact me at [adebesintolulope80@gmail.com](mailto:adebesintolulope80@gmail.com)
-* 🧠  I'm learning Vue JS and React JS
+* 🧠  I'm learning Next Js and Typescript.
 
 ### Skills
 
