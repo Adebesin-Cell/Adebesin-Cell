@@ -33,3 +33,5 @@ Being a result-driven Front-end Engineer with over a year of experience in front
 
 ### Stats
 <a href="http://github.com/Adebesin-Cell"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Adebesin-Cell&stroke=ffffff&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="45%"/></a>
+
+[![wakatime](https://wakatime.com/badge/user/be7057a6-0ec9-4e12-a674-23ab3000943f.svg)](https://wakatime.com/@be7057a6-0ec9-4e12-a674-23ab3000943f)
