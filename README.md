@@ -6,10 +6,9 @@ Frontend web developer
 
 Being a result-driven Front-end Engineer with over a year of experience in frontend development, software planning and intermediate knowledge of HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap, Responsive design and design system, I am dedicated to creating and optimizing user-friendly web solutions and interactions for organizations to help them achieve their goals.
 
-* 🌍  I'm based in Nigeria
+* 🧠  I'm learning ``Langchain``, ``Next JS``, ``Typescript``.
 * 🖥️  See my portfolio at [lope.cell.vercel.app](http://lope.cell.vercel.app)
 * ✉️  You can contact me at [adebesintolulope80@gmail.com](mailto:adebesintolulope80@gmail.com)
-* 🧠  I'm learning TRPC, Next JS, Typescript.
 
 ### Skills
 
