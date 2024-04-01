@@ -4,7 +4,7 @@ Hi 👋 My name is Tolulope Adebesin
 Frontend web developer
 ----------------------
 
-Being a result-driven Front-end Engineer with over a year of experience in frontend development, software planning and intermediate knowledge of HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap, Responsive design and design system, I am dedicated to creating and optimizing user-friendly web solutions and interactions for organizations to help them achieve their goals.
+Being a result-driven Front-end Engineer with over 2 years of experience in frontend development, software planning and intermediate knowledge of HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap, Responsive design and design system, I am dedicated to creating and optimizing user-friendly web solutions and interactions for organizations to help them achieve their goals.
 
 * 🧠  I'm learning ``Langchain``, ``Next JS``, ``Typescript``.
 * 🖥️  See my portfolio at [lope.cell.vercel.app](http://lope.cell.vercel.app)
