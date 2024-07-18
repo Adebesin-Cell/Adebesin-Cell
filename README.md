@@ -1,14 +1,13 @@
-Hi 👋 My name is Tolulope Adebesin
-==================================
+# Hi 👋 My name is Tolulope Adebesin
 
-Frontend web developer
-----------------------
+## Frontend Web Developer
 
-Being a result-driven Front-end Engineer with over 2 years of experience in frontend development, software planning and intermediate knowledge of HTML, CSS, JavaScript & Typescript, React, Tailwind CSS, Next Js, Responsive design and design system, I am dedicated to creating and optimizing user-friendly web solutions and interactions for organizations to help them achieve their goals.
+I'm a results-driven Front-end Engineer with over 3 years of experience in frontend development and software planning. I have intermediate knowledge of HTML, CSS, JavaScript & TypeScript, React, Tailwind CSS, Next.js, responsive design, and design systems. I'm dedicated to creating and optimizing user-friendly web solutions and interactions for organizations to help them achieve their goals.
 
-* 🧠  I'm learning ``Langchain``, ``Next JS``, ``Typescript``.
-* 🖥️  See my portfolio at [lope.cell.vercel.app](http://lope.cell.vercel.app)
-* ✉️  You can contact me at [adebesintolulope80@gmail.com](mailto:adebesintolulope80@gmail.com)
+* 🧠 I'm learning `Xstate`, `C++`, coding architecture in Next.js, Zod, LLM-powered apps, and exploring the world of Angular.js.
+* 🚀 Currently building a Twitter bot, working at IQ.wiki during the day and Chopritte at night.
+* 🖥️ See my portfolio at [lope.cell.vercel.app](http://lope.cell.vercel.app)
+* ✉️ You can contact me at [adebesintolulope80@gmail.com](mailto:adebesintolulope80@gmail.com)
 
 ### Skills
 
@@ -25,12 +24,16 @@ Being a result-driven Front-end Engineer with over 2 years of experience in fron
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
 </p>
 
-
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Adebesin-Cell/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adebesin-tolulope" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://twitter.com/I_am_Lope" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left">
+<a href="https://www.github.com/Adebesin-Cell/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/adebesin-tolulope" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://twitter.com/I_am_Lope" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
 
 ### Stats
+
 <a href="http://github.com/Adebesin-Cell"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Adebesin-Cell&stroke=ffffff&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="45%"/></a>
 
 [![wakatime](https://wakatime.com/badge/user/be7057a6-0ec9-4e12-a674-23ab3000943f.svg)](https://wakatime.com/@be7057a6-0ec9-4e12-a674-23ab3000943f)
