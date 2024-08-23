@@ -4,8 +4,8 @@
 
 I'm a results-driven Front-end Engineer with over 3 years of experience in frontend development and software planning. I have intermediate knowledge of HTML, CSS, JavaScript & TypeScript, React, Tailwind CSS, Next.js, responsive design, and design systems. I'm dedicated to creating and optimizing user-friendly web solutions and interactions for organizations to help them achieve their goals.
 
-* 🧠 I'm learning `Xstate`, `C++`, coding architecture in Next.js, Zod, LLM-powered apps, and exploring the world of Angular.js.
-* 🚀 Currently building a Twitter bot at IQ.wiki.
+* 🧠 I'm learning `Xstate`, `C++`, coding architecture in Next.js.
+* 🚀 Currently seeking open source projects to contribute to.
 * 🖥️ See my portfolio at [lope.cell.vercel.app](http://lope.cell.vercel.app)
 * ✉️ You can contact me at [adebesintolulope80@gmail.com](mailto:adebesintolulope80@gmail.com)
 
