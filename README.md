@@ -1,15 +1,19 @@
-# Hi 👋 My name is Tolulope Adebesin
 
-## Frontend Web Developer
+# Hi 👋 I'm **Tolulope Adebesin (Lope)** 
 
-I'm a results-driven Front-end Engineer with over 3 years of experience in frontend development and software planning. I have intermediate knowledge of HTML, CSS, JavaScript & TypeScript, React, Tailwind CSS, Next.js, responsive design, and design systems. I'm dedicated to creating and optimizing user-friendly web solutions and interactions for organizations to help them achieve their goals.
+## 🚀 Frontend Engineer
 
-* 🧠 I'm learning better code principles & practices, Next.js 15, accessibility for web apps.
-* 🚀 Currently seeking open source projects to contribute to.
-* 🖥️ See my portfolio at [lope.cell.vercel.app](http://lope.cell.vercel.app)
-* ✉️ You can contact me at [adebesintolulope80@gmail.com](mailto:adebesintolulope80@gmail.com)
+I'm a **results-driven Frontend Engineer** with over **3 years of experience** in frontend development and software planning. Skilled in **HTML, CSS, JavaScript & TypeScript, React, Tailwind CSS, Next.js, responsive design**, and **design systems**, I am passionate about crafting and optimizing **user-friendly web solutions** that help organizations achieve their goals. 
 
-### Skills
+* 🎓 **Currently Studying:** Computer Engineering - (Learning C fundamentals, OOP with C++, and Basics of Discrete Maths)
+* 🧠 **Currently Learning:** Best coding practices, Next.js 15, accessibility for web applications
+* 🌱 **Looking to Contribute:** Open source projects
+* 🖥️ **Portfolio:** [lope.cell.vercel.app](http://lope.cell.vercel.app)
+* ✉️ **Contact Me:** [adebesintolulope80@gmail.com](mailto:adebesintolulope80@gmail.com)
+* 📰 **More About Me:** [IQ.wiki](https://iq.wiki/wiki/adebesin-tolulope/)
+
+
+### 🛠️ Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -24,7 +28,8 @@ I'm a results-driven Front-end Engineer with over 3 years of experience in front
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
 </p>
 
-### Socials
+
+### 🌐 Connect with Me
 
 <p align="left">
 <a href="https://www.github.com/Adebesin-Cell/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
@@ -32,8 +37,10 @@ I'm a results-driven Front-end Engineer with over 3 years of experience in front
 <a href="https://twitter.com/I_am_Lope" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
-### Stats
+### 📊 GitHub Stats
 
 <a href="http://github.com/Adebesin-Cell"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Adebesin-Cell&stroke=ffffff&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="45%"/></a>
 
-[![wakatime](https://wakatime.com/badge/user/be7057a6-0ec9-4e12-a674-23ab3000943f.svg)](https://wakatime.com/@be7057a6-0ec9-4e12-a674-23ab3000943f)
+[![Wakatime Badge](https://wakatime.com/badge/user/be7057a6-0ec9-4e12-a674-23ab3000943f.svg)](https://wakatime.com/@be7057a6-0ec9-4e12-a674-23ab3000943f)
+
+---
