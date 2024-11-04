@@ -5,7 +5,7 @@
 
 I'm a **results-driven Frontend Engineer** with over **3 years of experience** in frontend development and software planning. Skilled in **HTML, CSS, JavaScript & TypeScript, React, Tailwind CSS, Next.js, responsive design**, and **design systems**, I am passionate about crafting and optimizing **user-friendly web solutions** that help organizations achieve their goals. 
 
-* 🎓 **Currently Studying:** Computer Engineering - (Learning C fundamentals, OOP with C++, and Basics of Discrete Maths)
+* 🎓 **Currently Studying:** Computer Engineering - (Learnt C fundamentals, OOP with C++, and Basics of Discrete Maths)
 * 🧠 **Currently Learning:** Best coding practices, Next.js 15, accessibility for web applications
 * 🌱 **Looking to Contribute:** Open source projects
 * 🖥️ **Portfolio:** [lope.cell.vercel.app](http://lope.cell.vercel.app)
