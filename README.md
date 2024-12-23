@@ -5,12 +5,19 @@
 
 I'm a **results-driven Frontend Engineer** with over **3 years of experience** in frontend development and software planning. Skilled in **HTML, CSS, JavaScript & TypeScript, React, Tailwind CSS, Next.js, responsive design**, and **design systems**, I am passionate about crafting and optimizing **user-friendly web solutions** that help organizations achieve their goals. 
 
-* 🎓 **Currently Studying:** Computer Engineering - (Learnt C fundamentals, OOP with C++, and Basics of Discrete Maths)
-* 🧠 **Currently Learning:** Best coding practices, Next.js 15, accessibility for web applications
-* 🌱 **Looking to Contribute:** Open source projects
-* 🖥️ **Portfolio:** [lope.cell.vercel.app](http://lope.cell.vercel.app)
-* ✉️ **Contact Me:** [adebesintolulope80@gmail.com](mailto:adebesintolulope80@gmail.com)
-* 📰 **More About Me:** [IQ.wiki](https://iq.wiki/wiki/adebesin-tolulope/)
+Here’s a refined version with the correct phrasing and polished formatting:
+
+
+* 🎓 **Currently Studying:** Computer Engineering - (Learning C fundamentals, OOP with C++, and basics of Discrete Mathematics)  
+* 🧠 **Currently Learning:** Best coding practices, LLMs, and advanced backend development.  
+* 🌱 **Looking to Contribute:** Open-source projects. Currently contributing to **IQ.wiki** and other **Braindao ecosystem products**, including key projects such as **IQ GPT**, an AI-powered search engine tailored for crypto that simplifies querying news, live data, and crypto concepts, and **IQ.wiki**, the largest blockchain and crypto encyclopedia.  
+* 🖥️ **Portfolio:** [lope.cell.vercel.app](http://lope.cell.vercel.app)  
+* ✉️ **Contact Me:** [adebesintolulope80@gmail.com](mailto:adebesintolulope80@gmail.com)  
+* 📰 **More About Me:** [IQ.wiki](https://iq.wiki/wiki/adebesin-tolulope/)  
+
+
+
+Let me know if you’d like any further changes!
 
 
 ### 🛠️ Skills
