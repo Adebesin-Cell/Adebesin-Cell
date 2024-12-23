@@ -5,8 +5,6 @@
 
 I'm a **results-driven Frontend Engineer** with over **3 years of experience** in frontend development and software planning. Skilled in **HTML, CSS, JavaScript & TypeScript, React, Tailwind CSS, Next.js, responsive design**, and **design systems**, I am passionate about crafting and optimizing **user-friendly web solutions** that help organizations achieve their goals. 
 
-Here’s a refined version with the correct phrasing and polished formatting:
-
 
 * 🎓 **Currently Studying:** Computer Engineering - (Learning C fundamentals, OOP with C++, and basics of Discrete Mathematics)  
 * 🧠 **Currently Learning:** Best coding practices, LLMs, and advanced backend development.  
@@ -15,9 +13,6 @@ Here’s a refined version with the correct phrasing and polished formatting:
 * ✉️ **Contact Me:** [adebesintolulope80@gmail.com](mailto:adebesintolulope80@gmail.com)  
 * 📰 **More About Me:** [IQ.wiki](https://iq.wiki/wiki/adebesin-tolulope/)  
 
-
-
-Let me know if you’d like any further changes!
 
 
 ### 🛠️ Skills
