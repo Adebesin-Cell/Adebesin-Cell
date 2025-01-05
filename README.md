@@ -1,9 +1,9 @@
 
 # Hi 👋 I'm **Tolulope Adebesin (Lope)** 
 
-## 🚀 Frontend Engineer
+## 🚀 Fullstack Engineer
 
-I'm a **results-driven Frontend Engineer** with over **3 years of experience** in frontend development and software planning. I am passionate about crafting and optimizing **user-friendly web solutions** that help organizations achieve their goals. 
+I'm a **results-driven fullstack Engineer** with over **3 years of experience** in software development and software planning. I am passionate about crafting and optimizing **user-friendly web solutions** that help organizations achieve their goals. 
 
 
 * 🎓 **Currently Studying:** Computer Engineering - (Learning C fundamentals, OOP with C++, and basics of Discrete Mathematics)  
