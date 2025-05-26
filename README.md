@@ -10,7 +10,6 @@ I'm a **results-driven fullstack Engineer** with over **3 years of experience** 
 * 🧠 **Currently Learning:** Best coding practices, LLMs, and advanced backend development.  
 * 🌱 **Looking to Contribute:** Open-source projects. Currently contributing to **IQ.wiki** and other **Braindao ecosystem products**, including key projects such as **IQ GPT**, an AI-powered search engine tailored for crypto that simplifies querying news, live data, and crypto concepts, and **IQ.wiki**, the largest blockchain and crypto encyclopedia.  
 * 🖥️ **Portfolio:** [lope.cell.vercel.app](http://lope.cell.vercel.app)  
-* ✉️ **Contact Me:** [adebesintolulope80@gmail.com](mailto:adebesintolulope80@gmail.com)  
 * 📰 **More About Me:** [IQ.wiki](https://iq.wiki/wiki/adebesin-tolulope/)  
 
 
