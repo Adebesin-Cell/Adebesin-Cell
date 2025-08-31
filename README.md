@@ -47,5 +47,3 @@ I'm a **results-driven fullstack Engineer** with over **3 years of experience** 
 
 ### ✨ Stackoverflow
 <a href="https://stackexchange.com/users/19812704/lope"><img src="https://stackexchange.com/users/flair/19812704.png" width="208" height="58" alt="profile for Lope on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Lope on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
-
----
