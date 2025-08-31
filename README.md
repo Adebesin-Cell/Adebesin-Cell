@@ -45,4 +45,7 @@ I'm a **results-driven fullstack Engineer** with over **3 years of experience** 
 
 [![Wakatime Badge](https://wakatime.com/badge/user/be7057a6-0ec9-4e12-a674-23ab3000943f.svg)](https://wakatime.com/@be7057a6-0ec9-4e12-a674-23ab3000943f)
 
+### ✨ Stackoverflow
+<a href="https://stackexchange.com/users/19812704/lope"><img src="https://stackexchange.com/users/flair/19812704.png" width="208" height="58" alt="profile for Lope on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Lope on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+
 ---
