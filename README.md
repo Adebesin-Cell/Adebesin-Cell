@@ -7,13 +7,6 @@ I care deeply about **developer experience**, clean abstractions, and systems th
 
 I enjoy turning vague ideas into working products, improving workflows, and contributing to tools other developers rely on.
 
-
-## 🧠 What I Focus On
-- Building **user-friendly, scalable web applications**
-- Designing **clean frontend architecture**
-- Improving **developer workflows & tooling**
-- Thinking in **systems**, not just features
-
 ## 🌱 What I’m Currently Exploring
 - Open-source collaboration at scale  
 - Agentic systems for improving developer productivity  
@@ -43,14 +36,6 @@ I write about software engineering, systems thinking, productivity, and lessons 
 ## 🛠️ Tech Stack
 **Languages**
 - TypeScript, JavaScript  
-
-**Frontend**
-- React, Next.js  
-- Tailwind CSS  
-
-**Tools & Platforms**
-- Git, GitHub, GitHub Actions  
-- Vercel  
 
 *(I value depth and clarity over tool hoarding.)*
 
